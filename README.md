@@ -1,5 +1,5 @@
 <!--![Banner](image-url)-->
-<h1 align="center">Hi 👋, I'm Mathias BLENOUME</h1>
+<h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">I'm passionate about AI and Machine Learning</h3>
 
 
