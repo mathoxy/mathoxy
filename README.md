@@ -3,8 +3,6 @@
 <h3 align="center">I'm passionate about AI and Machine Learning</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathoxy&label=Profile%20views&color=0e75b6&style=flat" alt="mathoxy" /> </p>
-
 - 🌱 I’m currently learning **Data Science and AI**
 
 - 💬 Ask me about **I am student engineer in Data Science and AI**
