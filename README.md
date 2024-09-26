@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and AI**
 
-- 💬 Ask me about **I am student engineer in Data Science and AI**
+- 💬 Ask me about **ML and AI services**
 
 - 📫 How to reach me **mblenoume@gmail.com**
 
