@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mblenoume@gmail.com**
 
-- ⚡ Fun fact **I'm not a magician but make you dream come true 😁**
+- ⚡ Fun fact **I'm not a magician but make your dream come true 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
